@@ -1,0 +1,5 @@
+print("Knock, knock.")
+print("Who's there?")
+print("Lettuce.")
+print("Lettuce who?")
+print("LETTUCE IN!!!! THERE'S A MONSTER CHASING US!!!! IT'S GOING TO EAT US!!! FOR THE LOVE OF GOD!!!!!")
