@@ -1,6 +1,6 @@
 # Define a function to calculate a student's letter grade
 
-# Get the student's numeric grad
+# Get the student's numeric grade
 grade = int(input("What is your numberic grade?   "))
 
 # Check if grade is above 100
