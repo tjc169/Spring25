@@ -1,0 +1,8 @@
+May 1, 2025, 5:24pm: Today, I worked on my python assignment to create a journal entry.  I hope I did it correctly!
+ ########### 
+May 1, 2025, 5:26pm: Entry #2 in the books!
+ ########### 
+MAy 1, 2025, 5:28pm: Attempting to read my diary.
+ ########### 
+May 1, 2025, 5:34pm: I made a few tweaks to the python code to read the file. Fingers crossed!
+ ########### 
